@@ -15,6 +15,9 @@
           width="40"
         />
       </div>
+
+      <!-- uncomment the following line to see the 'fill-height' class magically return -->
+			<!-- <v-spacer></v-spacer> -->
     </v-app-bar>
 
     <v-main>
