@@ -1,4 +1,6 @@
-# vue-missing-fill-height
+# vuetify-missing-fill-height
+
+Example of a bug in Vuetify that causes the fill-height class to disappear
 
 ## Project setup
 ```
